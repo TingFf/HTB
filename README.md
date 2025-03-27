@@ -1,4 +1,4 @@
-# HTB
+# HackTheBox
 <p align="center">
   <img src="https://imgur.com/U037zOs.png" alt="ScreenShot">
 </p>  
