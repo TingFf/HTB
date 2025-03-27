@@ -11,11 +11,14 @@ Always use ```strings``` first to do basic triage**
 └─$ ls
 rev_lootstash  rev_lootstash.zip
 
+
 ┌──(kali㉿kali)-[~/HTBTryout/LootStash/rev_lootstash]
 └─$ ./stash
 Diving into the stash - let's see what we can find.
 .....
-You got: 'Glimmer, Prophecy of Magic'. Now run, before anyone tries to steal it!                                                                                                                                                                                                                                 
+You got: 'Glimmer, Prophecy of Magic'. Now run, before anyone tries to steal it!
+
+                                                                                           
 ┌──(kali㉿kali)-[~/HTBTryout/LootStash/rev_lootstash]
 └─$ ./stash
 Diving into the stash - let's see what we can find.
