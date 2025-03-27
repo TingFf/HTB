@@ -3,7 +3,8 @@ A giant stash of powerful weapons and gear have been dropped into the arena - bu
 ## Difficulty
 Very easy
 ## Steps to Flag
-**Note: Always use cmd strings first to do basic triage**
+**Note:  
+Always use ```strings``` first to do basic triage**
 1. Download the challenge and the program look like this.
 ```
 ┌──(kali㉿kali)-[~/HTBTryout/LootStash]
@@ -33,4 +34,7 @@ HTB{n33dl3_1n_a_l00t_stack}
 ```
 HTB{n33dl3_1n_a_l00t_stack}
 ```
-**Note: Didnt thought of using strings from the start. Went to use ghidra to analyse and thought of writing script. Thought it was similar to previous challenge.**
+**Note:  
+Didnt thought of using strings from the start.  
+Went to use ghidra to analyse and thought of writing script.  
+Thought it was similar to previous challenge.**
